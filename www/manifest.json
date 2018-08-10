@@ -1,0 +1,12 @@
+{
+  "name": "Ionic 4",
+  "version": "1.0",
+  "description": "We built a Chrome Extension!",
+
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_icon": "assets/icon/favicon.png"
+  },
+  "manifest_version": 2
+}
